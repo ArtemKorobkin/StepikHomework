@@ -1,0 +1,22 @@
+main {
+  	width: auto;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom: 5%; 
+	padding: 10px;
+	font-family:  Arial, sans-serif;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+div {
+	float: right;
+	margin: 10px 10px 10px 10px;	/* обтикание изображения с текстом */
+}
+
+.img-description {
+	margin-top: 0;
+	font-style: italic;
+}
